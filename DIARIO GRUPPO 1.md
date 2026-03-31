@@ -1,3 +1,7 @@
+# GRUPPO 1 GESTIONE PUNTEGGI
+
+Donati Ivan, Nigro Federico, Furfaro Andrea
+
 Release:
 
 Versione 0.01
