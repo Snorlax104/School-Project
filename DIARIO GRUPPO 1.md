@@ -2,12 +2,13 @@
 
 Donati Ivan, Nigro Federico, Furfaro Andrea
 
-Release:
-
-Versione 0.01
-
-* Brainstorming possibili idee bonus-malus-quest  
+Data 31/01/26
+* Brainstorming possibili idee bonus-malus-quest 
 * Strutturazione delle idee e dei relativi moltiplicatori o punteggi in array di tipo string per le quest/malus/bonus di tipo float per i parametri che andranno ad influire sul  punteggio  
+
+
+Release:
+Versione 0.01
 * Implementazione classe punteggi  
   * Somma per le quest  
   * moltiplicazione per bonus e malus  
