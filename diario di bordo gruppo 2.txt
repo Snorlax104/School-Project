@@ -2,29 +2,5 @@ GRUPPO 2 GESTIONE LEGA, PLAYER E CLASSIFICA
 
 Prette Damiano, Acosta Jessa, Rossotti Paolo, Bonsignorio Davide
 
-cose fatte:
-
-	spiegazione divisione compiti
-	spiegazione composizione struttura codice
-	spiegazione su come scrivere il codice a grandi linee
-	prima versione della nostra parte del progetto
-
-cose nuove spiegate:
-
-	in questa settimana sono stati spiegati i vector in modo da poterli utilizzare in questa esperienza
-
-Release:
-
-courrent version:
-
-	creazione di un'abbozzo di quello che andrà fatto nelle prossime versioni.
-
-		class Lega: ambiente dove verrà sviluppato tutta l'istanza di gioco
-		class Player: ogni giocatore che viene aggiunto alla lega
-		funzione gestioneClassifica: for annidiati che consentono di ordinare i vettori (funzione da completare)
-
-next versions:
-
-	finire la funzione classifica in modo che sia funzionante
-	aggiungere prove nel main per verificare funzionamento del codice
-	inizio implementazione comunicazione con altre classi/funzioni per sviluppo fase successiva progetto
+scheletro del codice fatto, necessario ritocco una volta inserito in un unico codice anche con gli altri gruppi
+le modifiche sono a riguardo il passaggio delle variabili tra classi proprie e esterne in modo da ottimizzare tutto al meglio
