@@ -29,8 +29,8 @@ Versione 0.0X idee prossime versioni
 
 Data 6/04/26
 * Brainstorming 
- * Possibili evoluzioni e collegamenti con altri gruppi 
- * Introduzione Classe storico punteggi
+  * Possibili evoluzioni e collegamenti con altri gruppi 
+  * Introduzione Classe storico punteggi
   
 Release:
 Versione 0.02
