@@ -1,4 +1,4 @@
-# GRUPPO 1 GESTIONE PUNTEGGI
+# DIARIO DEL GRUPPO 1 GESTIONE PUNTEGGI
 
 Donati Ivan, Nigro Federico, Furfaro Andrea
 
@@ -25,7 +25,18 @@ Versione 0.0X idee prossime versioni
     * Limitare il punteggio massimo (per evitare numeri troppo grandi)  
     * Arrotondare i punteggi (es. a 2 decimali)  
   * Applicare più eventi nello stesso turno  
-  * Tenere uno storico punteggi (per vedere andamento)  
-        
+  * Tenere uno storico punteggi (per vedere andamento)
+
+Data 6/04/26
+* Brainstorming 
+ * Possibili evoluzioni e collegamenti con altri gruppi 
+ * Introduzione Classe storico punteggi
+  
+Release:
+Versione 0.02
+* Implementazione classe Storico Punteggi
+ * Tracccia evoluzione del punteggio aggiornando un vector 
+
+* Creazione main di test
 
 
