@@ -35,7 +35,7 @@ Data 6/04/26
 Release:
 Versione 0.02
 * Implementazione classe Storico Punteggi
- * Tracccia evoluzione del punteggio aggiornando un vector 
+  * Tracccia evoluzione del punteggio aggiornando un vector 
 
 * Creazione main di test
 
