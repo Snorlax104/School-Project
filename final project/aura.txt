@@ -1,0 +1,26 @@
+
+STANDARD SINTATTICHE:
+    1)nomenclatura:
+        -variabili: snake case (minuscolo separato da "_", esemprio: nome_variabile_qualsiasi)
+        -funzioni: lower camel case (minuscolo alla prima lettera, maiuscolo quando si cambia parola
+         esempio: nomeFunzioneQualsiasi)
+        -classi: upper camel case (come funzioni ma la prima lettera è maiuscola, esempio: NomeClasseQualsiasi)
+
+        -membri classi:
+            -membri privati:  nome preceduto da "_"
+            -membri protetti: nome seguito da "_"
+
+STANDARD API (INTERFACCIA):
+
+STANDARD DIVISIONE:
+    1)ogni gruppo deve lavorare nella propria sottocartella all'interno di "classes"
+
+    2)le definizioni devono essere tassativamente separate dalle implementazioni:
+        -le prime dovranno essere dentro dei file .h all'interno della cartella del gruppo
+        -le seconde dovranno essere dentro dei file .cpp posti all'interno di "src"
+         (omonimi ai propri .h)
+
+    3) ogni gruppo dovrà includere ciascun file .h nel proprio "main.h", altrimemti non funzionerà il codice
+
+    4) è opportuno che ciascuna classe sia definita ed implementata in un proprio .h e .cpp
+       si sconsiglia l'accorpamento di due classi a meno che non siano strettamente legate
