@@ -6,7 +6,6 @@ namespace __FANTASQUOLA_CLSS_DEF__ {
 
 	using std::string;
 	using std::vector;
-	using std::initializer_list;
 
 	using std::cout;
 	using std::endl;
