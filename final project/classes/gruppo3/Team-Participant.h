@@ -47,6 +47,7 @@ namespace __FANTASCUOLA_G3_TEAM__ {
 		string _name; // Nome della squadra 
 		int _score; // Punteggio accumulato 
 		vector<Participant> _members; // Array per contenere fino a 20 nomi 
+		
 
 	public:
 		// Costruttore: imposta i valori iniziali quando crei la squadra 
@@ -61,5 +62,11 @@ namespace __FANTASCUOLA_G3_TEAM__ {
 
 		// Funzione per visualizzare i dati a schermo 
 		void displayCLI();
+
+		//Restituisce il nome del Team
+		string name() { return _name; }
+
+		//Restituisce partecipanti del Team
+		const vector<Participant>& members() { return _members; }
 	};
 }
