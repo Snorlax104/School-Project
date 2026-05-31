@@ -57,9 +57,14 @@ namespace __FANTASCUOLA_G2_LEAG__ {
     public:
 
         Lega() {} //builder, nead to be implemented when everything is done properly
+        Lega(string name) : _name(name) {} //serve per ricostruire la Lega 
         ~Lega() {} //destructor
-
+        
         void gestioneClassifica();
+
+        string getName() const { return _name; } //Restituisce il nome della Lega
+        const vector<Player>& getPlayers() const { return _players; } //Restituisce la lista dei Player per iterarli e salvarli tutti.
+        void addPlayer(const Player& p) { _players.push_back(p); } //Aggiunge un Player alla Lega. Serve durante il caricamento.
 
     };
 
